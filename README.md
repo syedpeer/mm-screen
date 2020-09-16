@@ -6,7 +6,7 @@
 Stock screener described in the book "Trade Like a Stock Market Wizard" by Mark Minervini, to be used for identifying superperformance stocks.
 
 
-As a first critical note, all credit for the development of the screener is to be attributed to Mark Minervini. You can read an in-depth description of the screener and much more important and useful content in his book, link [here](https://www.amazon.com/Trade-Like-Stock-Market-Wizard/dp/0071807225).
+As a critical first note, all credit for the development of the screener is to be given to Mark Minervini. You can read an in-depth description of the screener and much more important and useful content in his book, link [here](https://www.amazon.com/Trade-Like-Stock-Market-Wizard/dp/0071807225).
 
 Credit is also due to AlphaVantage, a ticker data company that supplies comprehensive, csv-formatted, historical price data. This is a great free resource. Link [here](https://www.alphavantage.co/).
 
