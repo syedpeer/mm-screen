@@ -37,6 +37,7 @@ In short, Minervini states in his book that superperformance stocks, stocks that
 
 - Python 3
 - Selenium (run "pip install selenium" in terminal to install)
+- webdriver_manager ("pip install webdriver_manager" to install)
 
 
 
