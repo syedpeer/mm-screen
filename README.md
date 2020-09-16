@@ -35,8 +35,8 @@ In short, Minervini states in his book that superperformance stocks, stocks that
 
 ###### Requirements:
 
--Python 3
--Selenium (run "pip install selenium" in terminal to install)
+- Python 3
+- Selenium (run "pip install selenium" in terminal to install)
 
 
 
