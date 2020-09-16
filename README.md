@@ -5,7 +5,7 @@ Stock screener described in the book "Trade Like a Stock Market Wizard" by Mark 
 
 
 
-**Key Info:**
+######Key Info:
 
 1. Download database of historical prices by running the "av-bot.py" file. By default, this will download prices for all companies listed in the stock-names.txt file, listing all companies in the NASDAQ. Adjust this file if you need a smaller subset of these tickers. More information below.
 
@@ -21,7 +21,7 @@ Finally, the very useful [Selenium](https://www.selenium.dev/) project must be c
 
 
 
-**Desciption of the screener:**
+######Desciption of the screener:
 
 In short, Minervini states in his book that superperformance stocks, stocks that are set to give investors unusally high returns can often be detected by using a specific screen. 
 
@@ -33,7 +33,7 @@ In short, Minervini states in his book that superperformance stocks, stocks that
       
 
 
-**Requirements:**
+######Requirements:
 
 Python 3
 
@@ -41,7 +41,7 @@ Selenium (run "pip install selenium" in terminal to install)
 
 
 
-**Notes:**
+######Notes:
 
   1. You must have a database of stock prices for this to work. I have included the av-bot.py file to do this. This is a selenium bot file that uses your AlphaVantage key to download the necessary csv files for your analysis. Adjust the time.sleep() parameter in the av-bot.py file to make this sufficiently slow if you have a free AlphaVantage account. See their website for information on their rates. The default time parameter is 20 seconds, which is slow. Adjust as needed.
   
