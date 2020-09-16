@@ -34,6 +34,8 @@ In short, Minervini states in his book that superperformance stocks, stocks that
 
 The first screen on the NASDAQ was performed on April 17th, 2020. Using August 17th as a benchmark, the mean return over this four month period was +31.17%, with the median return being +11.37%. You can look at the set of statistics [here](https://docs.google.com/spreadsheets/d/1mOPHz0ZabGM4zJR8wvpwYPKiMeYRhPp08gP21WA47GA/edit?usp=sharing).
 
+The screener notably detected Novavax, Inc. (NASD:NVAX) on April 17th at price $19.08. It is now priced $110.34, and reached a high of $189.40 in early August. This is an outlier compared to the rest of the data collected, however.
+
 ###### Requirements:
 
 - Python 3
