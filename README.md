@@ -1,6 +1,8 @@
 
 # mm-screen
 
+###### Credits:
+
 Stock screener described in the book "Trade Like a Stock Market Wizard" by Mark Minervini, to be used for identifying superperformance stocks.
 
 
@@ -11,7 +13,7 @@ Credit is also due to AlphaVantage, a ticker data company that supplies comprehe
 Finally, the very useful [Selenium](https://www.selenium.dev/) project must be credited as well. 
 
 
-###### Key Info:
+###### How to Use:
 
 1. Download database of historical prices by running the "av-bot.py" file. By default, this will download prices for all companies listed in the stock-names.txt file, listing all companies in the NASDAQ. Adjust this file if you need a smaller subset of these tickers. More information below.
 
@@ -28,7 +30,9 @@ In short, Minervini states in his book that superperformance stocks, stocks that
   4. The 200-day moving average has been trending upward for X months. You choose the X (the default value is X=1 and can be modified in the trendtemplatetest.py file). 
       (200DMA trending up for at least 1 month)
       
+###### Results of the screener:
 
+The first screen on the NASDAQ was performed on April 17th, 2020. Using August 17th as a benchmark, the mean return over this four month period was +31.17%, with the median return being +11.37%. You can look at the set of statistics [here](https://docs.google.com/spreadsheets/d/1mOPHz0ZabGM4zJR8wvpwYPKiMeYRhPp08gP21WA47GA/edit?usp=sharing).
 
 ###### Requirements:
 
