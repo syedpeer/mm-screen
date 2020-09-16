@@ -4,21 +4,18 @@
 Stock screener described in the book "Trade Like a Stock Market Wizard" by Mark Minervini, to be used for identifying superperformance stocks.
 
 
-
-###### Key Info:
-
-1. Download database of historical prices by running the "av-bot.py" file. By default, this will download prices for all companies listed in the stock-names.txt file, listing all companies in the NASDAQ. Adjust this file if you need a smaller subset of these tickers. More information below.
-
-2. Run the test by typing into terminal "python RunScreenTest.py" in the same directory as the rest of the files downloaded here and your csv price database.
-
-
-
 As a first critical note, all credit for the development of the screener is to be attributed to Mark Minervini. You can read an in-depth description of the screener and much more important and useful content in his book, link [here](https://www.amazon.com/Trade-Like-Stock-Market-Wizard/dp/0071807225).
 
 Credit is also due to AlphaVantage, a ticker data company that supplies comprehensive, csv-formatted, historical price data. This is a great free resource. Link [here](https://www.alphavantage.co/).
 
 Finally, the very useful [Selenium](https://www.selenium.dev/) project must be credited as well. 
 
+
+###### Key Info:
+
+1. Download database of historical prices by running the "av-bot.py" file. By default, this will download prices for all companies listed in the stock-names.txt file, listing all companies in the NASDAQ. Adjust this file if you need a smaller subset of these tickers. More information below.
+
+2. Run the test by typing into terminal "python RunScreenTest.py" in the same directory as the rest of the files downloaded here and your csv price database.
 
 
 ###### Desciption of the screener:
